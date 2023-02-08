@@ -7,7 +7,7 @@
 I am Frontend Web Developer.
 
 - 🔭 I’m currently working on some cool projects.
-- 🌱 I’m currently learning JavaScript, Vue.js and Node.js
+- 🌱 I’m currently learning JavaScript, Web3 development and XR development.
 - 👯 I’m looking to collaborate on side projects.
 - 📫 How to reach me: simpleanilcha@gmail.com
 
